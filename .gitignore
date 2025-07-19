@@ -1,0 +1,55 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Unity cache and debug
+sysinfo.txt
+*.stacktrace
+
+# Visual Studio / JetBrains Rider
+.vs/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+
+# Unity cloud build
+.cloud/
+
+# OS-generated files
+.DS_Store
+*.swp
+Thumbs.db
+
+# Rider
+.idea/
+
+# Crash reports
+sysinfo.txt
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Local test builds
+*.apk
+*.aab
+*.ipa
+*.exe
+*.app
+
+# Asset Store Tools
+Assets/AssetStoreTools*
+
+# Git LFS pointer files (optional cleanup)
+*.lfs
